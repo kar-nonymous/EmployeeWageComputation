@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UC1_Attendance/1.0.0": {
+        "runtime": {
+          "UC1_Attendance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC1_Attendance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

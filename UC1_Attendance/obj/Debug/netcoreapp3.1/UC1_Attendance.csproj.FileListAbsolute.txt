@@ -1,0 +1,13 @@
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\bin\Debug\netcoreapp3.1\UC1_Attendance.exe
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\bin\Debug\netcoreapp3.1\UC1_Attendance.deps.json
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\bin\Debug\netcoreapp3.1\UC1_Attendance.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\bin\Debug\netcoreapp3.1\UC1_Attendance.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\bin\Debug\netcoreapp3.1\UC1_Attendance.dll
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\bin\Debug\netcoreapp3.1\UC1_Attendance.pdb
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.csprojAssemblyReference.cache
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.dll
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.pdb
+C:\Users\Kartikeya\source\repos\UC1_Attendance\UC1_Attendance\obj\Debug\netcoreapp3.1\UC1_Attendance.genruntimeconfig.cache
