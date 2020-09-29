@@ -1,0 +1,12 @@
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\bin\Debug\netcoreapp3.1\UC_DailyEmployeeWage.exe
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\bin\Debug\netcoreapp3.1\UC_DailyEmployeeWage.deps.json
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\bin\Debug\netcoreapp3.1\UC_DailyEmployeeWage.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\bin\Debug\netcoreapp3.1\UC_DailyEmployeeWage.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\bin\Debug\netcoreapp3.1\UC_DailyEmployeeWage.dll
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\bin\Debug\netcoreapp3.1\UC_DailyEmployeeWage.pdb
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\obj\Debug\netcoreapp3.1\UC_DailyEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\obj\Debug\netcoreapp3.1\UC_DailyEmployeeWage.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\obj\Debug\netcoreapp3.1\UC_DailyEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\obj\Debug\netcoreapp3.1\UC_DailyEmployeeWage.dll
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\obj\Debug\netcoreapp3.1\UC_DailyEmployeeWage.pdb
+C:\Users\Kartikeya\source\repos\UC_DailyEmployeeWage\UC_DailyEmployeeWage\obj\Debug\netcoreapp3.1\UC_DailyEmployeeWage.genruntimeconfig.cache
