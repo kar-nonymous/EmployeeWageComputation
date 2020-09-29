@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC4_SwitchCaseImplementation", "UC4_SwitchCaseImplementation\UC4_SwitchCaseImplementation.csproj", "{549211A0-FDEE-4F1F-A0CD-9AA73C212F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549211A0-FDEE-4F1F-A0CD-9AA73C212F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549211A0-FDEE-4F1F-A0CD-9AA73C212F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549211A0-FDEE-4F1F-A0CD-9AA73C212F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549211A0-FDEE-4F1F-A0CD-9AA73C212F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA997EB2-5DAF-47E4-8DFC-EC4B160BABED}
+	EndGlobalSection
+EndGlobal
